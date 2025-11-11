@@ -1,5 +1,8 @@
 ●参考サイト
 
+Markdown Live Preview
+https://markdownlivepreview.com/
+
 Github
 https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
@@ -62,7 +65,7 @@ https://codechord.com/2012/01/readme-markdown/
 
 ---------------------------------------------
 
-リスト（Definition型）dl, dt
+リスト（Definition型）dl, dt, dd
 
 <dl>
   <dt>オレオ</dt>
